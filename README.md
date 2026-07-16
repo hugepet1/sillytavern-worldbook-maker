@@ -1,6 +1,6 @@
 # SillyTavern 酒馆 · 傻瓜式世界书生成器
 
-**关键词 / Keywords：** `sillytavern` `酒馆` `傻瓜式世界书生成器` `世界书` `World Info` `Worldbook` `ST世界书` `角色卡配套` `好感度触发` `中英双语`
+`sillytavern` `酒馆` `傻瓜式世界书生成器` `世界书` `World Info` `Worldbook` `ST世界书` `角色卡配套` `好感度触发`
 
 > Easy SillyTavern World Info / Worldbook JSON maker · **Chinese & English UI**  
 > 不用手写 JSON，分步填表 → 一键导出可导入酒馆的世界书。
